@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Alunos">bbb298cd83256210e958c260ceaad33b</application>
+        <filter/>
+        <name>Alunos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1763640_unit.alunos_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 14:26:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>63341c0183656210e958c260ceaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_ui_module_63341c0183656210e958c260ceaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 14:26:32</sys_updated_on>
+        <table>x_1763640_unit_alunos</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_ui_module_63341c0183656210e958c260ceaad3ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Alunos">bbb298cd83256210e958c260ceaad33b</application><filter/><name>Alunos</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1763640_unit.alunos_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-14 14:26:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>63341c0183656210e958c260ceaad3ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Alunos</sys_name><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_ui_module_63341c0183656210e958c260ceaad3ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-14 14:26:32</sys_updated_on><table>x_1763640_unit_alunos</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-964631709</payload_hash>
+        <record_name>Alunos</record_name>
+        <reverted_from/>
+        <source>bb71dc4d83256210e958c260ceaad3c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 14:26:32</sys_created_on>
+        <sys_id>af341c0183656210e958c260ceaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196cf309efb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 14:26:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a3341c017d65621000fbc1ea39b84aee</update_guid>
+        <update_guid_history>a3341c017d65621000fbc1ea39b84aee:-964631709</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 14:27:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>22ade56fe63b449b87ba2c5263d367b1</sys_id>
+        <sys_metadata>63341c0183656210e958c260ceaad3ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_63341c0183656210e958c260ceaad3ed</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_63341c0183656210e958c260ceaad3ed">af341c0183656210e958c260ceaad3ee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 14:27:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

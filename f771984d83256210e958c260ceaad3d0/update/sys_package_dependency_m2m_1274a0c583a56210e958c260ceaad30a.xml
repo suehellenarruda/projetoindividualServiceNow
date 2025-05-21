@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Management Basics" source="com.snc.service">b710bcd474a3121087de1ada281f450e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 15:37:26</sys_created_on>
+        <sys_id>1274a0c583a56210e958c260ceaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 15:37:26</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

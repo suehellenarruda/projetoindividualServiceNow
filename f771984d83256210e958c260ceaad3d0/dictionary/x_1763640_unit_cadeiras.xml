@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="52b6f48d83e56210e958c260ceaad3e8" label="Cadeiras" max_length="40" name="x_1763640_unit_cadeiras" type="collection">
+        <element choice="1" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2º Período" sequence="2" value="2 periodo"/>
+                <element inactive_on_update="false" label="5º Período" sequence="5" value="5 periodo"/>
+                <element inactive_on_update="false" label="10º Período" sequence="10" value="10 periodo"/>
+                <element inactive_on_update="false" label="7º Período" sequence="7" value="7 periodo"/>
+                <element inactive_on_update="false" label="6º Período" sequence="6" value="6 periodo"/>
+                <element inactive_on_update="false" label="8º Período" sequence="8" value="8 periodo"/>
+                <element inactive_on_update="false" label="1º Período" sequence="1" value="1 periodo"/>
+                <element inactive_on_update="false" label="3º Período" sequence="3" value="3 periodo"/>
+                <element inactive_on_update="false" label="4º Período" sequence="4" value="4 periodo"/>
+                <element inactive_on_update="false" label="9º Período" sequence="9" value="9 periodo"/>
+            </choice>
+        </element>
+        <element label="Professor" max_length="32" name="professor" reference="x_1763640_unit_professores" type="reference"/>
+        <element display="true" label="Nome da Cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
+        <index name="index">
+            <element name="professor"/>
+        </index>
+    </element>
+</database>

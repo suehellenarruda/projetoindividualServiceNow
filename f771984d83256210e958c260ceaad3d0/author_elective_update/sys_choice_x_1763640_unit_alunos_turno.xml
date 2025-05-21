@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="turno" table="x_1763640_unit_alunos" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>turno</element>
+            <name>x_1763640_unit_alunos</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-14 16:04:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>turno</sys_name>
+            <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+            <sys_update_name>sys_choice_x_1763640_unit_alunos_turno</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-14 16:04:52</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>turno</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manhã</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-14 16:04:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-14 16:06:18</sys_updated_on>
+            <value>manha</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>turno</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tarde</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-14 16:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-14 16:05:42</sys_updated_on>
+            <value>tarde</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>turno</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Noite</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-14 16:05:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-14 16:05:46</sys_updated_on>
+            <value>noite</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

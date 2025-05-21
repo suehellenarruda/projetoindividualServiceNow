@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Alunos">afb298cd83256210e958c260ceaad333</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Alunos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1763640_unit_alunos</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1763640_unit.alunos_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 15:37:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8274ec8583a56210e958c260ceaad362</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>UNIT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_app_module_8274ec8583a56210e958c260ceaad362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 22:26:59</sys_updated_on>
+        <timeline_page/>
+        <title>UNIT</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_app_module_8274ec8583a56210e958c260ceaad362</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Alunos">afb298cd83256210e958c260ceaad333</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Alunos</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1763640_unit_alunos</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1763640_unit.alunos_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-14 15:37:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8274ec8583a56210e958c260ceaad362</sys_id><sys_mod_count>8</sys_mod_count><sys_name>UNIT</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_app_module_8274ec8583a56210e958c260ceaad362</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-14 22:26:59</sys_updated_on><timeline_page/><title>UNIT</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1217620435</payload_hash>
+        <record_name>UNIT</record_name>
+        <reverted_from/>
+        <source>bb71dc4d83256210e958c260ceaad3c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 22:26:59</sys_created_on>
+        <sys_id>ed32ca49836d6210e958c260ceaad3df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d0e87e580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 22:26:59</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a532ca49806d6210910dc303f63ad7df</update_guid>
+        <update_guid_history>a532ca49806d6210910dc303f63ad7df:-1217620435,04610e090a6d6210fab9b01ce321b113:2101825955,07247189722d6210150c46290debe84a:-1217620435,b4937dc55f2d62106d24f8daa52e2254:1119016173,2e633d09952d6210e3607d1796b136f2:-1162880626,0bb239c5602d6210ab4e512301f19506:1119016173,9e2279c55c2d6210bec84028b613f624:-1217620435,2cc13d45042d6210ed4948c47674f455:535550509,4a74ec85c3a562109bc78832731f2a63:1119016173</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UNIT">26629e0d83ad6210e958c260ceaad3ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 23:37:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1fdd3abf8f6d4cd4a0a66a77809dc2e9</sys_id>
+        <sys_metadata>8274ec8583a56210e958c260ceaad362</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_app_module_8274ec8583a56210e958c260ceaad362</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8274ec8583a56210e958c260ceaad362">ed32ca49836d6210e958c260ceaad3df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 23:37:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

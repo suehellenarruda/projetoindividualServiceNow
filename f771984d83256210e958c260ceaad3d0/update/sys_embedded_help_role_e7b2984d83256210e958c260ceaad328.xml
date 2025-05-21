@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1763640_unit.alunos_user" name="x_1763640_unit.alunos_user">6fb2984d83256210e958c260ceaad325</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 14:19:59</sys_created_on>
+        <sys_id>e7b2984d83256210e958c260ceaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6fb2984d83256210e958c260ceaad325</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e7b2984d83256210e958c260ceaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 14:19:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

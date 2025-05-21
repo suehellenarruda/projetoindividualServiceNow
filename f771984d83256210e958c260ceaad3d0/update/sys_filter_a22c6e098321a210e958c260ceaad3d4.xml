@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sys_user_group">manager=280526c18321a210e958c260ceaad302^EQ<item display_table="sys_user" display_value="Arlindo Correa" endquery="false" field="manager" goto="false" newquery="false" operator="=" or="false" value="280526c18321a210e958c260ceaad302"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-15 01:30:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a22c6e098321a210e958c260ceaad3d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_filter_a22c6e098321a210e958c260ceaad3d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-15 01:30:17</sys_updated_on>
+        <table>sys_user_group</table>
+        <title>Manager UNIT</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=a22c6e098321a210e958c260ceaad3d4"/>
+</record_update>
