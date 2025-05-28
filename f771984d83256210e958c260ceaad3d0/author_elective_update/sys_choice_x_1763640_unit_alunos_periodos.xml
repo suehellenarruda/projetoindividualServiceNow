@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="periodos" table="x_1763640_unit_alunos" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>periodos</element>
+            <name>x_1763640_unit_alunos</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:24:45</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>periodos</sys_name>
+            <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+            <sys_update_name>sys_choice_x_1763640_unit_alunos_periodos</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:24:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:24:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:28:52</sys_updated_on>
+            <value>1  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:24:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:00</sys_updated_on>
+            <value>2  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:25:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:04</sys_updated_on>
+            <value>3  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:25:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:08</sys_updated_on>
+            <value>4  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:25:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:12</sys_updated_on>
+            <value>5  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:25:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:16</sys_updated_on>
+            <value>6  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:25:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:19</sys_updated_on>
+            <value>7  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:24</sys_updated_on>
+            <value>8  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>9º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:26:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:28</sys_updated_on>
+            <value>9  Periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodos</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10º Período</label>
+            <language>en</language>
+            <name>x_1763640_unit_alunos</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-28 17:26:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-28 17:29:35</sys_updated_on>
+            <value>10  Periodo</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

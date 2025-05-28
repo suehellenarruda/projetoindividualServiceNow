@@ -1,86 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Informações Acadêmicas" section_id="ec6ae7dd83a92210e958c260ceaad3a8" sys_domain="global" table="x_1763640_unit_alunos" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>turno</element>
+            <element>location</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 00:41:28</sys_created_on>
-            <sys_id>899a2fdd83a92210e958c260ceaad32e</sys_id>
+            <sys_created_on>2025-05-28 18:18:22</sys_created_on>
+            <sys_id>889fc12d83752210e958c260ceaad3a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações Acadêmicas" display_value="Informações Acadêmicas" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">ec6ae7dd83a92210e958c260ceaad3a8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 00:41:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>data_de_matricula</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 00:41:28</sys_created_on>
-            <sys_id>019a2fdd83a92210e958c260ceaad32f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Informações Acadêmicas" display_value="Informações Acadêmicas" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">ec6ae7dd83a92210e958c260ceaad3a8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 00:41:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>data_de_formacao</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 00:41:28</sys_created_on>
-            <sys_id>859a2fdd83a92210e958c260ceaad32f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Informações Acadêmicas" display_value="Informações Acadêmicas" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">ec6ae7dd83a92210e958c260ceaad3a8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 00:41:28</sys_updated_on>
+            <sys_updated_on>2025-05-28 18:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 00:41:28</sys_created_on>
-            <sys_id>0d9a2fdd83a92210e958c260ceaad32f</sys_id>
+            <sys_created_on>2025-05-28 18:18:22</sys_created_on>
+            <sys_id>009fc12d83752210e958c260ceaad3a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações Acadêmicas" display_value="Informações Acadêmicas" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">ec6ae7dd83a92210e958c260ceaad3a8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 00:41:28</sys_updated_on>
+            <sys_updated_on>2025-05-28 18:18:22</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>location</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 00:41:28</sys_created_on>
-            <sys_id>019a2fdd83a92210e958c260ceaad349</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Informações Acadêmicas" display_value="Informações Acadêmicas" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">ec6ae7dd83a92210e958c260ceaad3a8</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 00:41:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ativo</element>
-            <position>5</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 00:41:28</sys_created_on>
-            <sys_id>859a2fdd83a92210e958c260ceaad349</sys_id>
+            <sys_created_on>2025-05-28 18:18:22</sys_created_on>
+            <sys_id>849fc12d83752210e958c260ceaad3a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Informações Acadêmicas" display_value="Informações Acadêmicas" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">ec6ae7dd83a92210e958c260ceaad3a8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 00:41:28</sys_updated_on>
+            <sys_updated_on>2025-05-28 18:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
     <sys_filter action="INSERT_OR_UPDATE">
-        <filter table="x_1763640_unit_professores">location=c0fd998d83a96210e958c260ceaad359^EQ<item display_table="cmn_location" display_value="UNIT PE" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="c0fd998d83a96210e958c260ceaad359"/>
+        <filter table="x_1763640_unit_professores">location=c0fd998d83a96210e958c260ceaad359^EQ<item display_table="cmn_location" display_value="UNIT-PE" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="c0fd998d83a96210e958c260ceaad359"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <group/>
@@ -9,21 +9,21 @@
         <roles/>
         <sys_class_name>sys_filter</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-14 23:55:00</sys_created_on>
+        <sys_created_on>2025-05-28 17:21:47</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>76561e4183ed6210e958c260ceaad32e</sys_id>
+        <sys_id>979285e983352210e958c260ceaad34c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Campi UNIT PE</sys_name>
+        <sys_name>Localidade UNIT-PE</sys_name>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
-        <sys_update_name>sys_filter_76561e4183ed6210e958c260ceaad32e</sys_update_name>
+        <sys_update_name>sys_filter_979285e983352210e958c260ceaad34c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-14 23:55:00</sys_updated_on>
+        <sys_updated_on>2025-05-28 17:21:47</sys_updated_on>
         <table>x_1763640_unit_professores</table>
-        <title>Campi UNIT PE</title>
+        <title>Localidade UNIT-PE</title>
         <user/>
     </sys_filter>
-    <sys_translated_text action="delete_multiple" query="documentkey=76561e4183ed6210e958c260ceaad32e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=979285e983352210e958c260ceaad34c"/>
 </record_update>

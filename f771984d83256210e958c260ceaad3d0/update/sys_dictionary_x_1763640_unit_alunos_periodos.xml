@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="turno" table="x_1763640_unit_alunos">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="periodos" table="x_1763640_unit_alunos">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Turno</column_label>
+        <column_label>Períodos</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,7 +26,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>turno</element>
+        <element>periodos</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-28 18:28:59</sys_created_on>
-        <sys_name>Turno</sys_name>
+        <sys_created_on>2025-05-28 17:24:08</sys_created_on>
+        <sys_name>Períodos</sys_name>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
-        <sys_update_name>sys_dictionary_x_1763640_unit_alunos_turno</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1763640_unit_alunos_periodos</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-28 18:28:59</sys_updated_on>
+        <sys_updated_on>2025-05-28 17:24:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
