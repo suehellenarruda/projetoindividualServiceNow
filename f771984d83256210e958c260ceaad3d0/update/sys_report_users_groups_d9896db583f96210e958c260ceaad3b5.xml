@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Média de Notas por Cadeira">55896db583f96210e958c260ceaad3b5</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 14:50:15</sys_created_on>
+        <sys_id>d9896db583f96210e958c260ceaad3b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>55896db583f96210e958c260ceaad3b5</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_report_users_groups_d9896db583f96210e958c260ceaad3b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 14:50:15</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

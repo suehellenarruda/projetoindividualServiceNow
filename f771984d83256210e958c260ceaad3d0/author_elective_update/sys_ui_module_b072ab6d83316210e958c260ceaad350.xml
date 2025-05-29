@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="UNIT">ba09995583212210e958c260ceaad36a</application>
+        <filter/>
+        <name>Cadeiras</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1763640_unit.cadeiras_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 05:00:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b072ab6d83316210e958c260ceaad350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cadeiras</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_ui_module_b072ab6d83316210e958c260ceaad350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 05:00:07</sys_updated_on>
+        <table>x_1763640_unit_cadeiras</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_ui_module_b072ab6d83316210e958c260ceaad350</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="UNIT">ba09995583212210e958c260ceaad36a</application><filter/><name>Cadeiras</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1763640_unit.cadeiras_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:00:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b072ab6d83316210e958c260ceaad350</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cadeiras</sys_name><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_ui_module_b072ab6d83316210e958c260ceaad350</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:00:07</sys_updated_on><table>x_1763640_unit_cadeiras</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>363350363</payload_hash>
+        <record_name>Cadeiras</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 05:00:07</sys_created_on>
+        <sys_id>b072ab6d83316210e958c260ceaad352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971a6973210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 05:00:07</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b472ab6d63316210376e3c22cb05ce51</update_guid>
+        <update_guid_history>b472ab6d63316210376e3c22cb05ce51:363350363</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 07:10:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>acb18f16caeb452090b3fcc8347806e9</sys_id>
+        <sys_metadata>b072ab6d83316210e958c260ceaad350</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cadeiras</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_b072ab6d83316210e958c260ceaad350</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_b072ab6d83316210e958c260ceaad350">b072ab6d83316210e958c260ceaad352</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 07:10:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

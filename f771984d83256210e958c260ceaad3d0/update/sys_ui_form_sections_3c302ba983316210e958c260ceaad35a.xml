@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3c302ba983316210e958c260ceaad35a" sys_domain="global" table="x_1763640_unit_professores" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 04:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49302ba983316210e958c260ceaad3e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1763640_unit_professores" name="x_1763640_unit_professores" sys_domain="global" view="Default view">3c302ba983316210e958c260ceaad35a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_professores" sys_domain="global" view="Default view">7bdd17a583316210e958c260ceaad3eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 04:50:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 04:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05302ba983316210e958c260ceaad3e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1763640_unit_professores" name="x_1763640_unit_professores" sys_domain="global" view="Default view">3c302ba983316210e958c260ceaad35a</sys_ui_form>
+            <sys_ui_section caption="Informações Adicionais" display_value="Informações Adicionais" name="x_1763640_unit_professores" sys_domain="global" view="Default view">30302ba983316210e958c260ceaad35a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 04:50:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1763640_unit_professores</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 04:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c302ba983316210e958c260ceaad35a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1763640_unit_professores</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3c302ba983316210e958c260ceaad35a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 04:50:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

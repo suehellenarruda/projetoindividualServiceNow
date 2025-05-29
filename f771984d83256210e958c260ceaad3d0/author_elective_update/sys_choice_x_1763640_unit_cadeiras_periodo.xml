@@ -23,15 +23,15 @@
             <label>1º Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>1</sequence>
+            <sequence>100</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-14 17:13:37</sys_created_on>
+            <sys_created_on>2025-05-29 07:13:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-14 17:15:09</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:00</sys_updated_on>
             <value>1 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -42,15 +42,15 @@
             <label>2º Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>2</sequence>
+            <sequence>200</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-14 17:13:42</sys_created_on>
+            <sys_created_on>2025-05-29 07:13:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-14 17:15:14</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:04</sys_updated_on>
             <value>2 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -58,18 +58,18 @@
             <element>periodo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>3º Período</label>
+            <label>3° Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>3</sequence>
+            <sequence>300</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-14 17:13:48</sys_created_on>
+            <sys_created_on>2025-05-29 07:13:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-14 17:15:19</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:08</sys_updated_on>
             <value>3 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -77,18 +77,18 @@
             <element>periodo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>4º Período</label>
+            <label>4° Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>4</sequence>
+            <sequence>400</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-14 17:13:54</sys_created_on>
+            <sys_created_on>2025-05-29 07:13:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-14 17:15:21</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:12</sys_updated_on>
             <value>4 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -96,18 +96,18 @@
             <element>periodo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>5º Período</label>
+            <label>5° Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>5</sequence>
+            <sequence>500</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-14 17:13:58</sys_created_on>
+            <sys_created_on>2025-05-29 07:13:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-14 17:15:26</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:16</sys_updated_on>
             <value>5 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -118,15 +118,15 @@
             <label>6º Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>6</sequence>
+            <sequence>600</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 14:12:02</sys_created_on>
+            <sys_created_on>2025-05-29 07:14:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 14:33:10</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:21</sys_updated_on>
             <value>6 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -134,18 +134,18 @@
             <element>periodo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>7º Período</label>
+            <label>7° Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>7</sequence>
+            <sequence>700</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 14:12:24</sys_created_on>
+            <sys_created_on>2025-05-29 07:14:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 14:33:13</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:26</sys_updated_on>
             <value>7 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -153,18 +153,18 @@
             <element>periodo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>8º Período</label>
+            <label>8° Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>8</sequence>
+            <sequence>800</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 14:12:39</sys_created_on>
+            <sys_created_on>2025-05-29 07:14:12</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 14:33:17</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:30</sys_updated_on>
             <value>8 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -175,15 +175,15 @@
             <label>9º Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>9</sequence>
+            <sequence>900</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 14:29:59</sys_created_on>
+            <sys_created_on>2025-05-29 07:14:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 14:33:19</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:34</sys_updated_on>
             <value>9 periodo</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -194,15 +194,15 @@
             <label>10º Período</label>
             <language>en</language>
             <name>x_1763640_unit_cadeiras</name>
-            <sequence>10</sequence>
+            <sequence>1000</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-16 14:32:56</sys_created_on>
+            <sys_created_on>2025-05-29 07:14:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-16 14:33:23</sys_updated_on>
+            <sys_updated_on>2025-05-29 07:17:44</sys_updated_on>
             <value>10 periodo</value>
         </sys_choice>
     </sys_choice>

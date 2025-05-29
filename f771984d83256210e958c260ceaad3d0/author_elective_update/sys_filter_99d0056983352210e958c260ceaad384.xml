@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="DELETE">
+        <filter table="x_1763640_unit_alunos">location=fdde598d83a96210e958c260ceaad376^EQ<item display_table="cmn_location" display_value="UNIT SE" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="fdde598d83a96210e958c260ceaad376"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 17:14:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>99d0056983352210e958c260ceaad384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Localidade UNIT-SE</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_filter_99d0056983352210e958c260ceaad384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 17:14:01</sys_updated_on>
+        <table>x_1763640_unit_alunos</table>
+        <title>Localidade UNIT-SE</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="DELETE" query="documentkey=99d0056983352210e958c260ceaad384"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_filter_99d0056983352210e958c260ceaad384</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="x_1763640_unit_alunos">location=fdde598d83a96210e958c260ceaad376^EQ<item display_table="cmn_location" display_value="UNIT SE" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="fdde598d83a96210e958c260ceaad376"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-28 17:14:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>99d0056983352210e958c260ceaad384</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Localidade UNIT-SE</sys_name><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_filter_99d0056983352210e958c260ceaad384</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-28 17:14:01</sys_updated_on><table>x_1763640_unit_alunos</table><title>Localidade UNIT-SE</title><user/></sys_filter><sys_translated_text action="delete_multiple" query="documentkey=99d0056983352210e958c260ceaad384"/></record_update>]]></payload>
+        <payload_hash>975585327</payload_hash>
+        <record_name>Localidade UNIT-SE</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 17:14:01</sys_created_on>
+        <sys_id>95d0cd6983352210e958c260ceaad343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19717e2fcef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 17:14:01</sys_updated_on>
+        <type>Filter</type>
+        <update_guid>ddd005694035221071ba109780fecf85</update_guid>
+        <update_guid_history>ddd005694035221071ba109780fecf85:975585327</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 04:04:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_filter">sys_filter</sys_db_object>
+        <sys_id>313c5a9ae97a459ca231a5fff80f7679</sys_id>
+        <sys_metadata>99d0056983352210e958c260ceaad384</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Localidade UNIT-SE</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent display_value="">b06420c583a56210e958c260ceaad30b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_filter_99d0056983352210e958c260ceaad384</sys_update_name>
+        <sys_update_version display_value="sys_filter_99d0056983352210e958c260ceaad384">95d0cd6983352210e958c260ceaad343</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 04:04:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1763640_unit_cadeiras</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><span style="color: #34495e;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Prezado(a) <span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">${professores.name}</span></span></strong></span></span><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">,<br /></span></span></strong></span></span></span></p>
+<p><span style="color: #34495e;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Informamos que voc&ecirc; foi atribu&iacute;do &agrave; disciplina: <strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">${nome_da_cadeira}</span></span></strong></span></span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> .</span></span></span></p>
+<p><span style="color: #34495e;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Esta disciplina pertence ao per&iacute;odo: <strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">${periodo}</span></span></strong></span></span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">.&nbsp;<br /></span></span></span></p>
+<p>&nbsp;</p>
+<p><span style="color: #34495e;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Atenciosamente,</span></span></span><br /><br /></p>
+<div><span style="color: #34495e;"><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Centro Universit&aacute;rio Tiradentes - UNIDADE</span></span></strong></span></div>
+<div>&nbsp;</div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Notificar Professor Atribuído a Cadeira</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>professores</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Você foi atribuído à disciplina: ${nome_da_cadeira}</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 02:54:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c630fa183bd2210e958c260ceaad3c2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Notificar Professor Atribuído a Cadeira</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sysevent_email_action_4c630fa183bd2210e958c260ceaad3c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 06:20:41</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

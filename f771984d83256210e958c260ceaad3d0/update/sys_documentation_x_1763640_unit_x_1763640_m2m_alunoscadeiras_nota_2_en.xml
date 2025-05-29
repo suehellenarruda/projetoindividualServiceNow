@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="nota_2" label="Nota 2" language="en" table="x_1763640_unit_x_1763640_m2m_alunoscadeiras">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>nota_2</element>
+            <help/>
+            <hint/>
+            <label>Nota 2</label>
+            <language>en</language>
+            <name>x_1763640_unit_x_1763640_m2m_alunoscadeiras</name>
+            <plural>Nota 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 07:24:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nota 2</sys_name>
+            <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+            <sys_update_name>sys_documentation_x_1763640_unit_x_1763640_m2m_alunoscadeiras_nota_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 07:24:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

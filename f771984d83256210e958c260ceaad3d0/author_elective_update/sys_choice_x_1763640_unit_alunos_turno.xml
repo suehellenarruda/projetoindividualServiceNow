@@ -23,15 +23,15 @@
             <label>Manhã</label>
             <language>en</language>
             <name>x_1763640_unit_alunos</name>
-            <sequence>1</sequence>
+            <sequence>100</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-28 18:30:11</sys_created_on>
+            <sys_created_on>2025-05-29 04:24:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-28 18:30:59</sys_updated_on>
+            <sys_updated_on>2025-05-29 04:24:33</sys_updated_on>
             <value>Manha</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -42,15 +42,15 @@
             <label>Tarde</label>
             <language>en</language>
             <name>x_1763640_unit_alunos</name>
-            <sequence>2</sequence>
+            <sequence>200</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-28 18:30:19</sys_created_on>
+            <sys_created_on>2025-05-29 04:24:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-28 18:31:03</sys_updated_on>
+            <sys_updated_on>2025-05-29 04:24:36</sys_updated_on>
             <value>Tarde</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -61,15 +61,15 @@
             <label>Noite</label>
             <language>en</language>
             <name>x_1763640_unit_alunos</name>
-            <sequence>3</sequence>
+            <sequence>300</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-28 18:30:25</sys_created_on>
+            <sys_created_on>2025-05-29 04:24:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-28 18:31:07</sys_updated_on>
+            <sys_updated_on>2025-05-29 04:24:40</sys_updated_on>
             <value>Noite</value>
         </sys_choice>
     </sys_choice>

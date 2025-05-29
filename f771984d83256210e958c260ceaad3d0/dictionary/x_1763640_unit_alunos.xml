@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="b06420c583a56210e958c260ceaad30b" extends="sys_user" label="Alunos" max_length="40" name="x_1763640_unit_alunos" type="collection">
+    <element db_object_id="a5565be983fd2210e958c260ceaad397" extends="sys_user" label="Alunos" max_length="40" name="x_1763640_unit_alunos" type="collection">
+        <element label="Data de Matrícula" max_length="40" name="data_de_matricula" type="glide_date"/>
         <element label="Data de Formação" max_length="40" name="data_de_formacao" type="glide_date"/>
-        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
-        <element choice="1" label="Períodos" max_length="40" name="periodos" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="7º Período" sequence="7" value="7  Periodo"/>
-                <element inactive_on_update="false" label="8º Período" sequence="8" value="8  Periodo"/>
-                <element inactive_on_update="false" label="2º Período" sequence="2" value="2  Periodo"/>
-                <element inactive_on_update="false" label="3º Período" sequence="3" value="3  Periodo"/>
-                <element inactive_on_update="false" label="9º Período" sequence="9" value="9  Periodo"/>
-                <element inactive_on_update="false" label="6º Período" sequence="6" value="6  Periodo"/>
-                <element inactive_on_update="false" label="5º Período" sequence="5" value="5  Periodo"/>
-                <element inactive_on_update="false" label="4º Período" sequence="4" value="4  Periodo"/>
-                <element inactive_on_update="false" label="10º Período" sequence="10" value="10  Periodo"/>
-                <element inactive_on_update="false" label="1º Período" sequence="1" value="1  Periodo"/>
-            </choice>
-        </element>
         <element choice="1" label="Turno" max_length="40" name="turno" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Tarde" sequence="2" value="Tarde"/>
-                <element inactive_on_update="false" label="Manhã" sequence="1" value="Manha"/>
-                <element inactive_on_update="false" label="Noite" sequence="3" value="Noite"/>
+                <element inactive_on_update="false" label="Tarde" sequence="200" value="Tarde"/>
+                <element inactive_on_update="false" label="Manhã" sequence="100" value="Manha"/>
+                <element inactive_on_update="false" label="Noite" sequence="300" value="Noite"/>
             </choice>
         </element>
-        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
-        <element label="Data de Matrícula" max_length="40" name="data_de_matricula" type="glide_date"/>
+        <element choice="1" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="7º Período" sequence="700" value="7 periodo"/>
+                <element inactive_on_update="false" label="3° Período" sequence="300" value="3 periodo"/>
+                <element inactive_on_update="false" label="8º Período" sequence="800" value="8 periodo"/>
+                <element inactive_on_update="false" label="4º Período" sequence="400" value="4 periodo"/>
+                <element inactive_on_update="false" label="9º Período" sequence="900" value="9 periodo"/>
+                <element inactive_on_update="false" label="5º Período" sequence="500" value="5 periodo"/>
+                <element inactive_on_update="false" label="10º Período" sequence="1000" value="10 periodo"/>
+                <element inactive_on_update="false" label="2° Período" sequence="200" value="2 periodo"/>
+                <element inactive_on_update="false" label="1° Período" sequence="100" value="1 periodo"/>
+                <element inactive_on_update="false" label="6º Período" sequence="600" value="6 periodo"/>
+            </choice>
+        </element>
+        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
     </element>
 </database>

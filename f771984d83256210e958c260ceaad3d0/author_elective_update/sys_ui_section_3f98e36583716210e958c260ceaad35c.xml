@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="3f98e36583716210e958c260ceaad35c" sys_domain="global" table="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1763640_unit_alunos</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 05:29:02</sys_created_on>
+            <sys_id>5819a7a583716210e958c260ceaad3aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 05:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_1763640_unit_cadeiras</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 05:29:02</sys_created_on>
+            <sys_id>dc19a7a583716210e958c260ceaad3aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 05:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 05:29:02</sys_created_on>
+            <sys_id>5419a7a583716210e958c260ceaad3ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 05:29:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nota_1</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 05:29:02</sys_created_on>
+            <sys_id>d819a7a583716210e958c260ceaad3ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 05:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nota_2</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 05:29:02</sys_created_on>
+            <sys_id>5019a7a583716210e958c260ceaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 05:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>media</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 05:29:02</sys_created_on>
+            <sys_id>d419a7a583716210e958c260ceaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 05:29:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1763640_unit_x_1763640_m2m_alunos_cadeiras</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 05:27:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f98e36583716210e958c260ceaad35c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1763640_unit_x_1763640_m2m_alunos_cadeiras</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+            <sys_update_name>sys_ui_section_3f98e36583716210e958c260ceaad35c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 05:27:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_ui_section_3f98e36583716210e958c260ceaad35c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="3f98e36583716210e958c260ceaad35c" sys_domain="global" table="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1763640_unit_alunos</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:29:02</sys_created_on><sys_id>5819a7a583716210e958c260ceaad3aa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:29:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_1763640_unit_cadeiras</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:29:02</sys_created_on><sys_id>dc19a7a583716210e958c260ceaad3aa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:29:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:29:02</sys_created_on><sys_id>5419a7a583716210e958c260ceaad3ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:29:02</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>nota_1</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:29:02</sys_created_on><sys_id>d819a7a583716210e958c260ceaad3ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:29:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>nota_2</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:29:02</sys_created_on><sys_id>5019a7a583716210e958c260ceaad3ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:29:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>media</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:29:02</sys_created_on><sys_id>d419a7a583716210e958c260ceaad3ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1763640_unit_x_1763640_m2m_alunos_cadeiras" sys_domain="global" view="Default view">3f98e36583716210e958c260ceaad35c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:29:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1763640_unit_x_1763640_m2m_alunos_cadeiras</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:27:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3f98e36583716210e958c260ceaad35c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1763640_unit_x_1763640_m2m_alunos_cadeiras</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_ui_section_3f98e36583716210e958c260ceaad35c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:27:05</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>659919244</payload_hash>
+        <record_name>x_1763640_m2m_Alunos_Cadeiras</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 05:29:02</sys_created_on>
+        <sys_id>9819a7a583716210e958c260ceaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971a83ea4e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 05:29:02</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5019a7a54c716210496ad0e2f0abf4ae</update_guid>
+        <update_guid_history>5019a7a54c716210496ad0e2f0abf4ae:659919244,11e8e3a57b7162109adf4c40db20fb26:-741253143,b3986f65f2716210af423d4bdfcba1e6:234830443,3798e365557162105dbb66875c0f7a5f:1311639968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 07:18:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0f55e2674e3a4fa88d2b3fc278877a10</sys_id>
+        <sys_metadata>3f98e36583716210e958c260ceaad35c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1763640_unit_x_1763640_m2m_alunos_cadeiras</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent display_value="">4b86ef2183716210e958c260ceaad3d4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_3f98e36583716210e958c260ceaad35c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_3f98e36583716210e958c260ceaad35c">9819a7a583716210e958c260ceaad3ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 07:18:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

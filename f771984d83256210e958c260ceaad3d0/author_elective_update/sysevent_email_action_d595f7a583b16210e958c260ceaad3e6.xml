@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="DELETE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1763640_unit_x_1763640_m2m_alunoscadeiras</collection>
+        <condition table="x_1763640_unit_x_1763640_m2m_alunoscadeiras">nota_1VALCHANGES^ORnota_2VALCHANGES^ORmediaVALCHANGES^EQ<item endquery="false" field="nota_1" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
+            <item endquery="false" field="nota_2" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/>
+            <item endquery="false" field="media" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><span style="color: #34495e;">Prezado(a) <strong>${x_1763640_unit_alunos.name}</strong>,<br /></span></p>
+<p>&nbsp;</p>
+<p><span style="color: #34495e;">Informamos que uma nova nota foi lan&ccedil;ada para voc&ecirc; na disciplina: <strong>&nbsp;${x_1763640_unit_cadeiras.nome_da_cadeira}.</strong></span></p>
+<p><span style="color: #34495e;">Sua Nota 1 &eacute;:</span><strong><span style="color: #34495e;"> ${nota_1}<br /></span></strong></p>
+<p><span style="color: #34495e;">Sua Nota 2 &eacute;: <strong>${nota_2}</strong>&nbsp;<br /></span></p>
+<p><span style="color: #34495e;">Sua M&eacute;dia &eacute;: <strong>${media}</strong><strong><br /></strong></span></p>
+<p>&nbsp;</p>
+<p><span style="color: #34495e;">Atenciosamente,</span><br /><br /></p>
+<div><strong><span style="color: #34495e;">Centro Universit&aacute;rio Tiradentes - UNIT</span></strong></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Notificar Lançamento de Nota</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>x_1763640_unit_alunos</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Sua nota na disciplina ${x_1763640_unit_cadeiras.nome_da_cadeira} foi lançada!</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 06:33:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d595f7a583b16210e958c260ceaad3e6</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Notificar Lançamento de Nota</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sysevent_email_action_d595f7a583b16210e958c260ceaad3e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 08:07:27</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sysevent_email_action_d595f7a583b16210e958c260ceaad3e6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;x_1763640_unit_x_1763640_m2m_alunoscadeiras&lt;/collection&gt;&lt;condition table="x_1763640_unit_x_1763640_m2m_alunoscadeiras"&gt;nota_1VALCHANGES^ORnota_2VALCHANGES^ORmediaVALCHANGES^EQ&lt;item endquery="false" field="nota_1" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="nota_2" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="media" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;activate.life.cycle.migration&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;&lt;span style="color: #34495e;"&gt;Prezado(a) &lt;strong&gt;${x_1763640_unit_alunos.name}&lt;/strong&gt;,&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #34495e;"&gt;Informamos que uma nova nota foi lan&amp;ccedil;ada para voc&amp;ecirc; na disciplina: &lt;strong&gt;&amp;nbsp;${x_1763640_unit_cadeiras.nome_da_cadeira}.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #34495e;"&gt;Sua Nota 1 &amp;eacute;:&lt;/span&gt;&lt;strong&gt;&lt;span style="color: #34495e;"&gt; ${nota_1}&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #34495e;"&gt;Sua Nota 2 &amp;eacute;: &lt;strong&gt;${nota_2}&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #34495e;"&gt;Sua M&amp;eacute;dia &amp;eacute;: &lt;strong&gt;${media}&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #34495e;"&gt;Atenciosamente,&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span style="color: #34495e;"&gt;Centro Universit&amp;aacute;rio Tiradentes - UNIT&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Notificar Lançamento de Nota&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;x_1763640_unit_alunos&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Sua nota na disciplina ${x_1763640_unit_cadeiras.nome_da_cadeira} foi lançada!&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-05-29 06:33:46&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d595f7a583b16210e958c260ceaad3e6&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Notificar Lançamento de Nota&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="UNIT" source="x_1763640_unit"&gt;f771984d83256210e958c260ceaad3d0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="UNIT"&gt;f771984d83256210e958c260ceaad3d0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_d595f7a583b16210e958c260ceaad3e6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-05-29 08:07:27&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Unsubscribe and Preferences"&gt;7ed0481f3b0b2200c869c2c703efc487&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1701111789</payload_hash>
+        <record_name>Notificar Lançamento de Nota</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 08:07:27</sys_created_on>
+        <sys_id>385d48f583356210e958c260ceaad37f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971b14f4f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 08:07:27</sys_updated_on>
+        <type>Notification</type>
+        <update_guid>bc5d48f5da356210be7c897c90c5427e</update_guid>
+        <update_guid_history>bc5d48f5da356210be7c897c90c5427e:-1701111789,154d8cb55d356210db1f046e7440ee59:-1719973424,0b0dc8b51135621068b3a85b1a85f725:-1701111789,11d78cfd3af1621088c6f8f9235ceb7d:394562689,da87c07dc9f16210a3d76aaa6b165ffe:-2054679086,24e77fa5b5b16210a57bb2301fc1eba1:438588526</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 08:46:07</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_action">sysevent_email_action</sys_db_object>
+        <sys_id>9f49e5acd5484d889754abc49cd64910</sys_id>
+        <sys_metadata>d595f7a583b16210e958c260ceaad3e6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notificar Lançamento de Nota</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent display_value="">4b86ef2183716210e958c260ceaad3d4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sysevent_email_action_d595f7a583b16210e958c260ceaad3e6</sys_update_name>
+        <sys_update_version display_value="sysevent_email_action_d595f7a583b16210e958c260ceaad3e6">385d48f583356210e958c260ceaad37f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 08:46:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="x_1763640_unit_cadeiras" table="x_1763640_unit_x_1763640_m2m_alunos_cadeiras">
+        <active>true</active>
+        <array>false</array>
+        <attributes>encode_utf8=false</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Cadeiras</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>x_1763640_unit_cadeiras</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_1763640_unit_x_1763640_m2m_alunos_cadeiras</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_1763640_unit_cadeiras">x_1763640_unit_cadeiras</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 05:18:02</sys_created_on>
+        <sys_id>db86e3e183716210e958c260ceaad32f</sys_id>
+        <sys_name>Cadeiras</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_dictionary_x_1763640_unit_x_1763640_m2m_alunos_cadeiras_x_1763640_unit_cadeiras</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 05:18:02</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type/>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_dictionary_x_1763640_unit_x_1763640_m2m_alunos_cadeiras_x_1763640_unit_cadeiras</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="x_1763640_unit_cadeiras" table="x_1763640_unit_x_1763640_m2m_alunos_cadeiras"><active>true</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Cadeiras</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>x_1763640_unit_cadeiras</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>x_1763640_unit_x_1763640_m2m_alunos_cadeiras</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="x_1763640_unit_cadeiras">x_1763640_unit_cadeiras</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 05:18:02</sys_created_on><sys_id>db86e3e183716210e958c260ceaad32f</sys_id><sys_name>Cadeiras</sys_name><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_dictionary_x_1763640_unit_x_1763640_m2m_alunos_cadeiras_x_1763640_unit_cadeiras</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 05:18:02</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type/><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1002368300</payload_hash>
+        <record_name>x_1763640_m2m_Alunos_Cadeiras.Cadeiras</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 05:18:03</sys_created_on>
+        <sys_id>9386e3e183716210e958c260ceaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971a79dbec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 05:18:03</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>d786e3e1827162108263b01b51ab8d3c</update_guid>
+        <update_guid_history>d786e3e1827162108263b01b51ab8d3c:1002368300</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 07:10:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>cb54c9cc42074568a2e09f4a74fb3c40</sys_id>
+        <sys_metadata>db86e3e183716210e958c260ceaad32f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cadeiras</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent display_value="">4b86ef2183716210e958c260ceaad3d4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1763640_unit_x_1763640_m2m_alunos_cadeiras_x_1763640_unit_cadeiras</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1763640_unit_x_1763640_m2m_alunos_cadeiras_x_1763640_unit_cadeiras">9386e3e183716210e958c260ceaad33d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 07:10:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
