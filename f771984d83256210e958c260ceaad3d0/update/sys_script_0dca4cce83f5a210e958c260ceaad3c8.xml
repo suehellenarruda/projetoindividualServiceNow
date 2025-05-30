@@ -30,7 +30,7 @@
         <script><![CDATA[var hoje = new GlideDateTime();
 
 if (current.data_de_demissao && current.data_de_demissao <= hoje) {
-    current.ativo = false;
+    current.active = false;
 }]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -38,7 +38,7 @@ if (current.data_de_demissao && current.data_de_demissao <= hoje) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0dca4cce83f5a210e958c260ceaad3c8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Inativar Professor por Data de Demissão</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
@@ -46,9 +46,9 @@ if (current.data_de_demissao && current.data_de_demissao <= hoje) {
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>sys_script_0dca4cce83f5a210e958c260ceaad3c8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 02:38:45</sys_updated_on>
+        <sys_updated_on>2025-05-30 08:21:01</sys_updated_on>
         <template/>
-        <when>after</when>
+        <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=0dca4cce83f5a210e958c260ceaad3c8"/>
 </record_update>
