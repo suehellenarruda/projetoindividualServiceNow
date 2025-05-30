@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="UNIT">45cddf6583316210e958c260ceaad310</application>
+        <application display_value="Unit">7a04124e83b1e210e958c260ceaad318</application>
         <assessment/>
         <device_type/>
         <filter table="x_1763640_unit_alunos">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6360040683f5a210e958c260ceaad3a9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Alunos Ativos</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>sys_app_module_6360040683f5a210e958c260ceaad3a9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 02:02:50</sys_updated_on>
+        <sys_updated_on>2025-05-30 12:45:39</sys_updated_on>
         <timeline_page/>
         <title>Alunos Ativos</title>
         <uncancelable>false</uncancelable>

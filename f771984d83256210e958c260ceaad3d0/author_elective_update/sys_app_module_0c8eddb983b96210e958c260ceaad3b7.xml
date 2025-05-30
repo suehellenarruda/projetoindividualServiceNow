@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="UNIT">45cddf6583316210e958c260ceaad310</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Professores</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1763640_unit_professores</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1763640_unit.UNIT_professores,x_1763640_unit.UNIT_aluno,x_1763640_unit.UNIT_usuario,x_1763640_unit.UNIT_admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 14:02:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c8eddb983b96210e958c260ceaad3b7</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Professores</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_app_module_0c8eddb983b96210e958c260ceaad3b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 07:33:18</sys_updated_on>
+        <timeline_page/>
+        <title>Professores</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_app_module_0c8eddb983b96210e958c260ceaad3b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="UNIT">45cddf6583316210e958c260ceaad310</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Professores</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1763640_unit_professores</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1763640_unit.UNIT_professores,x_1763640_unit.UNIT_aluno,x_1763640_unit.UNIT_usuario,x_1763640_unit.UNIT_admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 14:02:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0c8eddb983b96210e958c260ceaad3b7</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Professores</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_app_module_0c8eddb983b96210e958c260ceaad3b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-30 07:33:18</sys_updated_on><timeline_page/><title>Professores</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1170614099</payload_hash>
+        <record_name>Professores</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 07:33:18</sys_created_on>
+        <sys_id>521f418a837da210e958c260ceaad376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197201c0c360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 07:33:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1a1f418a087da2109cae40765ea01b75</update_guid>
+        <update_guid_history>1a1f418a087da2109cae40765ea01b75:-1170614099,c4430cc66ff5a2107da5b19118fae1c7:213082469,4552888631f5a21021fb3054faabb19a:0,8e3f913d58b9621019900d31a37eca9f:-1279147652,fdbe99f91db96210f34b887170d4be46:-2061025454,14be55f995b96210f43920ffdf4d4da1:-210727766</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Professores">bd61564a83b1e210e958c260ceaad3e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 12:23:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2a49230b064f4aff8c3b19d20e72f0a1</sys_id>
+        <sys_metadata>0c8eddb983b96210e958c260ceaad3b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Professores</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_app_module_0c8eddb983b96210e958c260ceaad3b7</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0c8eddb983b96210e958c260ceaad3b7">521f418a837da210e958c260ceaad376</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 12:23:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
