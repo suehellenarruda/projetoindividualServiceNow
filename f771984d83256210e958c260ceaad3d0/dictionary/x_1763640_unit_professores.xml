@@ -2,7 +2,7 @@
     <element db_object_id="829d13a583316210e958c260ceaad3c8" extends="sys_user" label="Professores" max_length="40" name="x_1763640_unit_professores" type="collection">
         <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
         <element label="Data de Contratação" max_length="40" name="data_de_contratacao" type="glide_date"/>
+        <element label="Data de Demissão" max_length="40" name="data_de_demissao" type="glide_date"/>
         <element label="Número da Matrícula" max_length="40" name="numero_da_matricula" type="string"/>
-        <element label="Data de Demissão" max_length="40" name="datade_demissao" type="glide_date"/>
     </element>
 </database>

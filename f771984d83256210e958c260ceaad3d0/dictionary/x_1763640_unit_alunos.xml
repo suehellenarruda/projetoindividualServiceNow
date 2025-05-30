@@ -23,6 +23,14 @@
                 <element inactive_on_update="false" label="6º Período" sequence="600" value="6 periodo"/>
             </choice>
         </element>
+        <element choice="1" label="Ênfase" max_length="40" name="enfase" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data Science" sequence="3" value="Data Science"/>
+                <element inactive_on_update="false" label="Desenvolvedor Full Stack" sequence="1" value="Desenvolvedor Full Stack"/>
+                <element inactive_on_update="false" label="Desenvolverdor Front End" sequence="2" value="Desenvolverdor Front End"/>
+                <element inactive_on_update="false" label="Machine Learning" sequence="4" value="Machine Learning"/>
+            </choice>
+        </element>
         <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
     </element>
 </database>

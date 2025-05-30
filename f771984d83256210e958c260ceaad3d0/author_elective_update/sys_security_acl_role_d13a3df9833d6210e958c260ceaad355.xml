@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 16:03:41</sys_created_on>
+        <sys_id>d13a3df9833d6210e958c260ceaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1763640_unit.UNIT_aluno</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_security_acl display_value="">c83a317d833d6210e958c260ceaad3ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d13a3df9833d6210e958c260ceaad355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 16:03:41</sys_updated_on>
+        <sys_user_role display_value="x_1763640_unit.UNIT_aluno" name="x_1763640_unit.UNIT_aluno">55b072cd8321a210e958c260ceaad356</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_security_acl_role_d13a3df9833d6210e958c260ceaad355</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 16:03:41</sys_created_on><sys_id>d13a3df9833d6210e958c260ceaad355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1763640_unit.UNIT_aluno</sys_name><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_security_acl display_value="">c83a317d833d6210e958c260ceaad3ac</sys_security_acl><sys_update_name>sys_security_acl_role_d13a3df9833d6210e958c260ceaad355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 16:03:41</sys_updated_on><sys_user_role display_value="x_1763640_unit.UNIT_aluno" name="x_1763640_unit.UNIT_aluno">55b072cd8321a210e958c260ceaad356</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1667148850</payload_hash>
+        <record_name>.x_1763640_unit.UNIT_aluno</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 16:03:41</sys_created_on>
+        <sys_id>745af17d833d6210e958c260ceaad33a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971cc8f4850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 16:03:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>705afdf9023d6210d7613b7e648f2467</update_guid>
+        <update_guid_history>705afdf9023d6210d7613b7e648f2467:-1667148850</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1763640_unit.UNIT_aluno">743ce3b98375a210e958c260ceaad3df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 00:21:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>259a933c49ab49689df371f80733e524</sys_id>
+        <sys_metadata>d13a3df9833d6210e958c260ceaad355</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1763640_unit.UNIT_aluno</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent display_value="x_1763640_unit_alunos.user_name">c83a317d833d6210e958c260ceaad3ac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d13a3df9833d6210e958c260ceaad355</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d13a3df9833d6210e958c260ceaad355">745af17d833d6210e958c260ceaad33a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 00:21:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

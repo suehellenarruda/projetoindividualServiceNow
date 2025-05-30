@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 23:39:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7aa2564d83ad6210e958c260ceaad372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UNIT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>sys_app_application_7aa2564d83ad6210e958c260ceaad372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 23:39:04</sys_updated_on>
+        <title>UNIT</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>sys_app_application_7aa2564d83ad6210e958c260ceaad372</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-14 23:39:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7aa2564d83ad6210e958c260ceaad372</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UNIT</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>sys_app_application_7aa2564d83ad6210e958c260ceaad372</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-14 23:39:04</sys_updated_on><title>UNIT</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1445400307</payload_hash>
+        <record_name>UNIT</record_name>
+        <reverted_from/>
+        <source>bb71dc4d83256210e958c260ceaad3c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-14 23:39:04</sys_created_on>
+        <sys_id>d1b2da89836d6210e958c260ceaad36b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d12a7ae50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-14 23:39:04</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>d5b2da89f06d62107e9487639a4d086a</update_guid>
+        <update_guid_history>d5b2da89f06d62107e9487639a4d086a:1445400307</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UNIT">4152488683f5a210e958c260ceaad3c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 01:57:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>03bbad39e85f41a08c76c1bc6950c400</sys_id>
+        <sys_metadata>7aa2564d83ad6210e958c260ceaad372</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>sys_app_application_7aa2564d83ad6210e958c260ceaad372</sys_update_name>
+        <sys_update_version display_value="sys_app_application_7aa2564d83ad6210e958c260ceaad372">d1b2da89836d6210e958c260ceaad36b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 01:57:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

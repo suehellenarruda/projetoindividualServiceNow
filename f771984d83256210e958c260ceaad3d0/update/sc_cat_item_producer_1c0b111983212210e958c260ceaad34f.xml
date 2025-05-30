@@ -31,7 +31,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Solicitar Serviços Acadêmicos</name>
+        <name>Solicitação de Matrícula em Disciplina</name>
         <no_attachment_v2>true</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -81,7 +81,7 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
-        <short_description>Solicitações de Serviços Acadêmicos para Alunos</short_description>
+        <short_description>Solicitação para matrícula de aluno em uma disciplina</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -89,14 +89,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-15 14:23:45</sys_created_on>
         <sys_id>1c0b111983212210e958c260ceaad34f</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_name>Solicitar Serviços Acadêmicos</sys_name>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name>Solicitação de Matrícula em Disciplina</sys_name>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>sc_cat_item_producer_1c0b111983212210e958c260ceaad34f</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-15 15:43:47</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-05-30 06:02:24</sys_updated_on>
         <table_name>x_1763640_unit_soilicitacao_de_servicos_academicos</table_name>
         <taxonomy_topic/>
         <template/>
@@ -104,7 +104,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>8</version>
+        <version>25</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
