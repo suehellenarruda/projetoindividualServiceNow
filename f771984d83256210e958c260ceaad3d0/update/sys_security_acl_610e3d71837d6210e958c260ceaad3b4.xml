@@ -4,7 +4,7 @@
         <admin_overrides>true</admin_overrides>
         <advanced>true</advanced>
         <condition/>
-        <description>Allow create for records in x_1763640_unit_alunos, for users with roles (x_1763640_unit.UNIT_professor, x_1763640_unit.UNIT_admin, x_1763640_unit.alunos_user).</description>
+        <description>Allow create for records in x_1763640_unit_alunos, for users with roles (x_1763640_unit.alunos_user, x_1763640_unit.UNIT_admin, x_1763640_unit.UNIT_professores).</description>
         <local_or_existing>Local</local_or_existing>
         <name>x_1763640_unit_alunos</name>
         <operation display_value="create">create</operation>
@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-29 16:20:14</sys_created_on>
         <sys_id>610e3d71837d6210e958c260ceaad3b4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>x_1763640_unit_alunos</sys_name>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>sys_security_acl_610e3d71837d6210e958c260ceaad3b4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-29 16:51:25</sys_updated_on>
+        <sys_updated_on>2025-05-30 07:46:07</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
