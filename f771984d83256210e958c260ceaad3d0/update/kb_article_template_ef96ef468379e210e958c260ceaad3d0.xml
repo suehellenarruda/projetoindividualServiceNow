@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template">
+    <kb_article_template action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <answer_ref display_value="Artigo da UNIT">b2e667868379e210e958c260ceaad368</answer_ref>
+        <article_template>Artigo da UNIT</article_template>
+        <child_table>u_kb_template_artigo_da_unit</child_table>
+        <description>Campo destinado aos Artigos da UNIT</description>
+        <meta_description_field/>
+        <sys_class_name>kb_article_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 18:36:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>ef96ef468379e210e958c260ceaad3d0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Artigo da UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>kb_article_template_ef96ef468379e210e958c260ceaad3d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 18:51:49</sys_updated_on>
+    </kb_article_template>
+</record_update>

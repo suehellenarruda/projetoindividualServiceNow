@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
+    <kb_uc_can_contribute_mtom action="DELETE">
+        <kb_knowledge_base display_value="Secretaria Virtual da UNIT">546323828379e210e958c260ceaad326</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 18:26:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41a4e7828379e210e958c260ceaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Secretaria Virtual da UNIT.Secretários da UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>kb_uc_can_contribute_mtom_41a4e7828379e210e958c260ceaad368</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 18:26:40</sys_updated_on>
+        <user_criteria display_value="Secretários da UNIT">ec84eb828379e210e958c260ceaad38e</user_criteria>
+    </kb_uc_can_contribute_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">f771984d83256210e958c260ceaad3d0</application>
+        <file_path/>
+        <instance_id>c61f59f21bc2b150168f4089bd4bcb68</instance_id>
+        <instance_name>dev194529</instance_name>
+        <name>kb_uc_can_contribute_mtom_41a4e7828379e210e958c260ceaad368</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom"><kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE"><kb_knowledge_base display_value="Secretaria Virtual da UNIT">546323828379e210e958c260ceaad326</kb_knowledge_base><sys_class_name>kb_uc_can_contribute_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-30 18:26:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41a4e7828379e210e958c260ceaad368</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Secretaria Virtual da UNIT.Secretários da UNIT</sys_name><sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package><sys_policy/><sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope><sys_update_name>kb_uc_can_contribute_mtom_41a4e7828379e210e958c260ceaad368</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-30 18:26:40</sys_updated_on><user_criteria display_value="Secretários da UNIT">ec84eb828379e210e958c260ceaad38e</user_criteria></kb_uc_can_contribute_mtom></record_update>]]></payload>
+        <payload_hash>-247765086</payload_hash>
+        <record_name>Secretaria Virtual da UNIT.Secretários da UNIT</record_name>
+        <reverted_from/>
+        <source>f4985e4b83612210e958c260ceaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 18:26:40</sys_created_on>
+        <sys_id>85a42bc28379e210e958c260ceaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197227238c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 18:26:40</sys_updated_on>
+        <type>Who Can Contribute To Knowledge Base</type>
+        <update_guid>89a42bc24f79e210527a7e8467f2d95e</update_guid>
+        <update_guid_history>89a42bc24f79e210527a7e8467f2d95e:-247765086</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Secretaria Virtual da UNIT.Secretários da UNIT">34d0b74283b9e210e958c260ceaad3b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 19:19:53</sys_created_on>
+        <sys_db_object display_value="" name="kb_uc_can_contribute_mtom">kb_uc_can_contribute_mtom</sys_db_object>
+        <sys_id>b240bd64fa9b4df8a15bf8fa1499f640</sys_id>
+        <sys_metadata>41a4e7828379e210e958c260ceaad368</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Secretaria Virtual da UNIT.Secretários da UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_scope_delete display_value="">2a67149e514643e0a4f5f327e409f7c1</sys_scope_delete>
+        <sys_update_name>kb_uc_can_contribute_mtom_41a4e7828379e210e958c260ceaad368</sys_update_name>
+        <sys_update_version display_value="kb_uc_can_contribute_mtom_41a4e7828379e210e958c260ceaad368">85a42bc28379e210e958c260ceaad35f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 19:19:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

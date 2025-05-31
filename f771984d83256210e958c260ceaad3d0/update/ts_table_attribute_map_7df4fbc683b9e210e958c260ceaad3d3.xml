@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ts_table_attribute_map">
+    <ts_table_attribute_map action="INSERT_OR_UPDATE">
+        <name display_value="Index Filter">dafb788eb7103300abfad298ee11a9c9</name>
+        <sys_class_name>ts_table_attribute_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 19:37:59</sys_created_on>
+        <sys_id>7df4fbc683b9e210e958c260ceaad3d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dafb788eb7103300abfad298ee11a9c9</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>ts_table_attribute_map_7df4fbc683b9e210e958c260ceaad3d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 19:37:59</sys_updated_on>
+        <table>u_kb_template_template_secretaria_virtual_unit</table>
+        <ts_configuration display_value="kb_knowledge">28eefe427320330003da83a9fdf6a794</ts_configuration>
+        <value>workflow_stateNOT INretired,outdated</value>
+    </ts_table_attribute_map>
+</record_update>

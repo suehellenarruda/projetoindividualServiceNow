@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template_definition">
+    <kb_article_template_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article_template display_value="Planos de Aula para o Semestre ">06a47b8683b9e210e958c260ceaad3c0</article_template>
+        <collapsible/>
+        <column_label>Responsáveis pelo Processo</column_label>
+        <column_type>string</column_type>
+        <field_style/>
+        <heading_style/>
+        <mandatory>true</mandatory>
+        <order/>
+        <preview_text/>
+        <sys_class_name>kb_article_template_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 19:51:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8fe737ca83b9e210e958c260ceaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Responsáveis pelo Processo</sys_name>
+        <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
+        <sys_update_name>kb_article_template_definition_8fe737ca83b9e210e958c260ceaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 19:51:44</sys_updated_on>
+        <table_column>x_1763640_unit_u_kb_respons_veis_pelo_processo</table_column>
+    </kb_article_template_definition>
+</record_update>

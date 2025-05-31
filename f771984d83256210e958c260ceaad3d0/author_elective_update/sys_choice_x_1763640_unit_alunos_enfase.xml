@@ -20,7 +20,7 @@
             <element>enfase</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Desenvolvedor Full Stack</label>
+            <label>Desenvolvedor Web</label>
             <language>en</language>
             <name>x_1763640_unit_alunos</name>
             <sequence>1</sequence>
@@ -29,9 +29,9 @@
             <sys_created_on>2025-05-30 01:31:22</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-30 01:32:20</sys_updated_on>
+            <sys_updated_on>2025-05-30 16:07:55</sys_updated_on>
             <value>Desenvolvedor Full Stack</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -39,7 +39,7 @@
             <element>enfase</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Desenvolverdor Front End</label>
+            <label>Inteligência Artificial</label>
             <language>en</language>
             <name>x_1763640_unit_alunos</name>
             <sequence>2</sequence>
@@ -48,9 +48,9 @@
             <sys_created_on>2025-05-30 01:30:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-30 01:32:23</sys_updated_on>
+            <sys_updated_on>2025-05-30 16:07:24</sys_updated_on>
             <value>Desenvolverdor Front End</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">

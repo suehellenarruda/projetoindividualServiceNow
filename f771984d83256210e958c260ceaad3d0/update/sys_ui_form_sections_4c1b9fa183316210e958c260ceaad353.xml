@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-29 04:27:51</sys_created_on>
+            <sys_created_on>2025-05-30 15:39:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>001b9fa183316210e958c260ceaad358</sys_id>
+            <sys_id>ed7e3e0283b5e210e958c260ceaad338</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1763640_unit_alunos" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">4c1b9fa183316210e958c260ceaad353</sys_ui_form>
-            <sys_ui_section caption="Informações Adicionais" display_value="Informações Adicionais" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">0c1b9fa183316210e958c260ceaad352</sys_ui_section>
+            <sys_ui_section caption="Informações Acadêmicas" display_value="Informações Acadêmicas" name="x_1763640_unit_alunos" sys_domain="global" view="Default view">957efa0283b5e210e958c260ceaad3d1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-29 04:27:51</sys_updated_on>
+            <sys_updated_on>2025-05-30 15:39:51</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1763640_unit_alunos</name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="c9685d1583212210e958c260ceaad3a9" extends="task" label="Solicitação de Serviços Acadêmicos" max_length="40" name="x_1763640_unit_soilicitacao_de_servicos_academicos" type="collection">
+    <element db_object_id="c9685d1583212210e958c260ceaad3a9" extends="task" label="Solicitação de Serviços Acadêmicos UNIT" max_length="40" name="x_1763640_unit_soilicitacao_de_servicos_academicos" type="collection">
         <element label="Nome do Aluno" max_length="32" name="nome_do_aluno" reference="x_1763640_unit_alunos" type="reference"/>
-        <element label="Cadeira para Matricular" max_length="32" name="cadeira_para_matricular" reference="x_1763640_unit_cadeiras" type="reference"/>
+        <element display="true" label="Cadeira para Matricular" max_length="32" name="cadeira_para_matricular" reference="x_1763640_unit_cadeiras" type="reference"/>
     </element>
 </database>
