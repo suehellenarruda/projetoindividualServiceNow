@@ -13,7 +13,7 @@
         <mobile_title>m2m Alunos e Cadeiras</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1763640_unit_x_1763640_m2m_alunoscadeiras</name>
-        <order>4</order>
+        <order>8</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -25,7 +25,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d895d28e83b1e210e958c260ceaad3ae</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>m2m Alunos e Cadeiras</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>sys_app_module_d895d28e83b1e210e958c260ceaad3ae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 12:41:52</sys_updated_on>
+        <sys_updated_on>2025-05-31 21:48:15</sys_updated_on>
         <timeline_page/>
         <title>m2m Alunos e Cadeiras</title>
         <uncancelable>false</uncancelable>

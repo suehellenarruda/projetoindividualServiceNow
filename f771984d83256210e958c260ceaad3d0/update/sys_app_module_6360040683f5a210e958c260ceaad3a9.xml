@@ -15,7 +15,7 @@
         <mobile_title>Alunos Ativos</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1763640_unit_alunos</name>
-        <order>9</order>
+        <order>2</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6360040683f5a210e958c260ceaad3a9</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Alunos Ativos</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>sys_app_module_6360040683f5a210e958c260ceaad3a9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 12:45:39</sys_updated_on>
+        <sys_updated_on>2025-05-31 21:46:43</sys_updated_on>
         <timeline_page/>
         <title>Alunos Ativos</title>
         <uncancelable>false</uncancelable>
