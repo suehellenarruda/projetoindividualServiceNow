@@ -11,16 +11,17 @@
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>x_1763640_unit_professores</collection>
+        <collection>x_1763640_unit_x_1763640_m2m_alunoscadeiras</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_1763640_unit_professores">data_de_demissao&lt;javascript:gs.beginningOfToday()^EQ<item endquery="false" field="data_de_demissao" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/>
+        <filter_condition table="x_1763640_unit_x_1763640_m2m_alunoscadeiras">nota_1ISNOTEMPTY^nota_2ISNOTEMPTY^EQ<item endquery="false" field="nota_1" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="nota_2" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
         <message/>
-        <name>Inativar Professor por Data de Demissão</name>
+        <name>Calcular Média Aluno-Cadeira</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -31,26 +32,26 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	// Add your code here
+	current.media=(current.nota_1 + current.nota_2) / 2; 
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-30 02:38:45</sys_created_on>
+        <sys_created_on>2025-06-02 17:42:22</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>0dca4cce83f5a210e958c260ceaad3c8</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Inativar Professor por Data de Demissão</sys_name>
+        <sys_id>2a36364b83bda210e958c260ceaad398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Calcular Média Aluno-Cadeira</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
-        <sys_update_name>sys_script_0dca4cce83f5a210e958c260ceaad3c8</sys_update_name>
+        <sys_update_name>sys_script_2a36364b83bda210e958c260ceaad398</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-02 16:28:20</sys_updated_on>
-        <template>active=false^EQ</template>
+        <sys_updated_on>2025-06-02 17:42:22</sys_updated_on>
+        <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=0dca4cce83f5a210e958c260ceaad3c8"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2a36364b83bda210e958c260ceaad398"/>
 </record_update>
