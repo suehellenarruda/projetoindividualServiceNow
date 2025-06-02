@@ -8,10 +8,10 @@
         <field_style/>
         <heading_style/>
         <mandatory>true</mandatory>
-        <order/>
+        <order>3</order>
         <preview_text><![CDATA[<div>
 <div>
-<div id="message-content-1378749233355690035">Utilizado para especificar claramente para quais leitores ou grupos de usuários o artigo é mais relevante e direcionado, o que auxilia tanto na busca por informações pertinentes quanto na adequação da linguagem e do nível de detalhe do texto pelo autor do artigo.</div>
+<div id="message-content-1378749233355690035">Seção destinada para especificar claramente quais leitores ou grupos de usuários o artigo é mais relevante e direcionado, o que auxilia tanto na busca por informações pertinentes quanto na adequação da linguagem e do nível de detalhe do texto pelo autor do artigo.</div>
 </div>
 </div>]]></preview_text>
         <sys_class_name>kb_article_template_definition</sys_class_name>
@@ -19,14 +19,14 @@
         <sys_created_on>2025-05-30 19:50:50</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>56a7bf8a83b9e210e958c260ceaad3db</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Público Alvo</sys_name>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>kb_article_template_definition_56a7bf8a83b9e210e958c260ceaad3db</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-01 14:57:29</sys_updated_on>
+        <sys_updated_on>2025-06-02 01:53:18</sys_updated_on>
         <table_column>x_1763640_unit_u_kb_p_blico_alvo</table_column>
     </kb_article_template_definition>
 </record_update>

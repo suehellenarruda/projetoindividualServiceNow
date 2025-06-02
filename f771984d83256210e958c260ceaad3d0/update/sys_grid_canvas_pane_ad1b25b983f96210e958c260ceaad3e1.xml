@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="New Tab 1">a7dae97983f96210e958c260ceaad396</grid_canvas>
-        <height>9</height>
+        <height>14</height>
         <portal_widget display_value="Created 2025-05-29 07:57:06">e11b25b983f96210e958c260ceaad3e0</portal_widget>
         <posx>0</posx>
         <posy>0</posy>
@@ -9,14 +9,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-29 14:57:06</sys_created_on>
         <sys_id>ad1b25b983f96210e958c260ceaad3e1</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>a7dae97983f96210e958c260ceaad396</sys_name>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_ad1b25b983f96210e958c260ceaad3e1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-29 14:59:40</sys_updated_on>
-        <width>11</width>
+        <sys_updated_on>2025-06-01 21:38:08</sys_updated_on>
+        <width>4</width>
     </sys_grid_canvas_pane>
 </record_update>

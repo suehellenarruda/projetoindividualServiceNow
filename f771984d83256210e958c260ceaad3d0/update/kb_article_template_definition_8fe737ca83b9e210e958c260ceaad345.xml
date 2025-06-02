@@ -8,10 +8,10 @@
         <field_style/>
         <heading_style/>
         <mandatory>true</mandatory>
-        <order/>
+        <order>2</order>
         <preview_text><![CDATA[<div>
 <div>
-<div id="message-content-1378749094754779146">Serve para identificar e informar qual departamento, equipe ou função é o proprietário da informação ou do processo que o artigo descreve, indicando também quem é o ponto de contato para atualizações ou questões mais aprofundadas.</div>
+<div id="message-content-1378749094754779146">Seção destinada para identificar e informar qual departamento, equipe ou função é o proprietário da informação ou do processo que o artigo descreve, indicando também quem é o ponto de contato para atualizações ou questões mais aprofundadas.</div>
 </div>
 </div>]]></preview_text>
         <sys_class_name>kb_article_template_definition</sys_class_name>
@@ -19,14 +19,14 @@
         <sys_created_on>2025-05-30 19:51:44</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>8fe737ca83b9e210e958c260ceaad345</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Responsáveis pelo Processo</sys_name>
         <sys_package display_value="UNIT" source="x_1763640_unit">f771984d83256210e958c260ceaad3d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">f771984d83256210e958c260ceaad3d0</sys_scope>
         <sys_update_name>kb_article_template_definition_8fe737ca83b9e210e958c260ceaad345</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-01 14:57:01</sys_updated_on>
+        <sys_updated_on>2025-06-02 01:52:06</sys_updated_on>
         <table_column>x_1763640_unit_u_kb_respons_veis_pelo_processo</table_column>
     </kb_article_template_definition>
 </record_update>
